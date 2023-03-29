@@ -12,3 +12,9 @@ I decided to use the navigation functionality to click on a link to other resour
 
 # About
 I have created headlines and paragraphs to describe myself, including accessibility images by an artist.
+
+# Box
+I have added a list of my soft skills and hard skills.
+
+# Contact
+I have created a "Contact Me" button so users can connect and chat with me.
